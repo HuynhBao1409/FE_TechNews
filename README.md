@@ -1,2 +1,2 @@
-# FE_YenSaoStore
-FrontEnd HomePage Yến Sào dùng: Nextjs, JavaSript/TypeScript
+# FE_TinTucTech
+FrontEnd HomePage TinTuc dùng: Nextjs, JavaSript/TypeScript
